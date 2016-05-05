@@ -10,8 +10,7 @@ h2{
 	margin-bottom: 15px;
 }
 p{
-	font: normal 20px Tahoma;
-	margin-bottom: 15px;
+	font: normal 20px Tahoma;	
 }
 header, section, footer, nav, article{
 	display: block;
@@ -84,5 +83,10 @@ ul.header{
 	background: white;
 	border: none;
 }
-
-
+a.header{	
+    display: block;
+    color: #666;
+    text-align: center;
+    padding: 6px 8px;
+    text-decoration: none;
+}
